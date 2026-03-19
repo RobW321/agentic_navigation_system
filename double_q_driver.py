@@ -1,3 +1,15 @@
+"""
+This file contains a driver for a grid-based maze navigation system built with Pygame, 
+where an AI agent learns to navigate through a maze toward a goal while being hunted by a
+2nd AI (that learns to hunt the 1st). Both utilize the Q-learning Reinforcement Learning algorithm. 
+
+To view the whole project, visit: 
+https://github.com/RobW321/agentic_navigation_system
+
+To view visual results, visit: 
+https://youtube.com/playlist?list=PLJTkBeP2-7oNdcffuhXBfy2X7OBT204bN&si=52SARAe7bAOlopkf
+"""
+
 from q_learning_gridgame import QGridGame
 import pygame
 import random
