@@ -2,6 +2,8 @@
 
 This repository contains a grid-based maze navigation system built with Pygame, where an agent navigates through a maze toward a goal using the A* search algorithm and the Q-learning Reinforcement Learning algorithm. The project also includes keyboard control functionality and an `execute` function to step the agent forward.
 
+View this YouTube playlist for visual results: https://youtube.com/playlist?list=PLJTkBeP2-7oNdcffuhXBfy2X7OBT204bN&si=52SARAe7bAOlopkf
+
 # Sample Image of the Agent and Goblin Traversing a Maze
 
 * Yellow Square: Player Agent (often refered to as just agent).
